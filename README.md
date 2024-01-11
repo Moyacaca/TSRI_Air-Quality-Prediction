@@ -56,7 +56,6 @@ You can give the order above directly to get the line charts and the average num
 
 ## Prediction without ground truth
 The one without ground truth is for the purpose of realistic prediction. 
-![1to1_3Day_noGT](https://github.com/Moyacaca/TSRI_Air-Quality-Prediction/assets/117159970/9355b1bb-7d34-4182-8850-c4ff551ffe08)
 
 <br>
 You can give the order below to get the result.  
