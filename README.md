@@ -5,12 +5,12 @@ Simply to get the result, you can give the order to get the line chart with grou
 bash run_GT.sh 2023-12-26_2023-12-29.csv 2023-12-26
 ```
 
-or give this order to get the line chart without ground truth.
+To get the line chart without ground truth, please give the order below.
 ```
 bash run.sh 2023-12-26_2023-12-28.csv 2023-12-26
 ```
 
-
+****
 
 
 For detail information or customized data for prediction, please read the guide below. 
