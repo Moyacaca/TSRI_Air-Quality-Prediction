@@ -32,8 +32,6 @@ For detail information or customized data for prediction, please read the guidel
 
 ## 1st model prediction process
 The one with ground truth(GT) will plot the ground truth out like the picture shown below.  
-<br><br>
-
 You can give the order to get the result.  
 ```
 bash run_GT.sh <csv filename> <start date>
