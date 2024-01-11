@@ -114,9 +114,9 @@ def model_prediction(feature):
     elif feature == 'pm10':
         plt.ylabel("μg/m3") # 設定y軸的標籤
     elif feature == 'co2':
-        plt.ylabel("μg/m3") # 設定y軸的標籤
+        plt.ylabel("CO2e") # 設定y軸的標籤
     elif feature == 'co':
-        plt.ylabel("μg/m3") # 設定y軸的標籤
+        plt.ylabel("mg/m3") # 設定y軸的標籤
 
     # data_plt = 5
 
