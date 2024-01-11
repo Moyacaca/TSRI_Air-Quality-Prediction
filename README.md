@@ -49,7 +49,7 @@ The 2023-12-26_2023-12-29.csv file is already included in the pred_today_GT fold
 You can give the order above directly to get the line charts and the average numbers.  
 
 ****
-<br>
+
 ## 2rd model prediction process
 The one without ground truth is for the purpose of realistic prediction. 
 <br>
