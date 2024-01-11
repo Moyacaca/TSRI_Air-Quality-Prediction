@@ -15,8 +15,6 @@ Download <ins>BASH</ins> and <ins>tensorflow</ins> for windows might be fine to 
 # Prediction
 There are two kinds of prediction here.  
 
-<br>
-
 ## Prediction with ground truth
 The one with ground truth(GT) will plot the ground truth in the line chart.  
 ![1to1_3Day](https://github.com/Moyacaca/TSRI_Air-Quality-Prediction/assets/117159970/8beb161b-f88d-4203-9d50-b12032975836)
