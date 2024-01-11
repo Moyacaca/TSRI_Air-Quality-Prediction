@@ -1,15 +1,15 @@
 There are two kinds of inference here.
 
-Simply to get the result, you can give the order
+Simply to get the result, you can give the order to get the line chart with ground truth.
 ```
 bash run_GT.sh 2023-12-26_2023-12-29.csv 2023-12-26
 ```
-to get the line chart with ground truth.
-or give the order 
+
+or give this order to get the line chart without ground truth.
 ```
 bash run.sh 2023-12-26_2023-12-28.csv 2023-12-26
 ```
-to get the line chart without ground truth.
+
 
 
 
