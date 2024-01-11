@@ -26,7 +26,8 @@ To get the <ins>line chart without ground truth</ins>, please give the order bel
 ```
 bash run.sh 2023-12-26_2023-12-28.csv 2023-12-26
 ```
-![1to1_3Day_noGT](https://github.com/Moyacaca/TSRI_Air-Quality-Prediction/assets/117159970/e5594ab5-36d8-437f-838e-b77560e3b447)
+![1to1_3Day_noGT](https://github.com/Moyacaca/TSRI_Air-Quality-Prediction/assets/117159970/ca57dd67-a34a-4d42-876e-3f9e62ea76a1)
+
 
 
 ****
