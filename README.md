@@ -18,11 +18,14 @@ Simply to get the result, you can give the order to get the <ins>line chart with
 ```
 bash run_GT.sh 2023-12-26_2023-12-29.csv 2023-12-26
 ```
+![1to1_3Day](https://github.com/Moyacaca/TSRI_Air-Quality-Prediction/assets/117159970/8beb161b-f88d-4203-9d50-b12032975836)
 
 To get the <ins>line chart without ground truth</ins>, please give the order below.  
 ```
 bash run.sh 2023-12-26_2023-12-28.csv 2023-12-26
 ```
+![1to1_3Day_noGT](https://github.com/Moyacaca/TSRI_Air-Quality-Prediction/assets/117159970/e5594ab5-36d8-437f-838e-b77560e3b447)
+
 
 ****
 
@@ -32,6 +35,8 @@ For detail information or customized data for prediction, please read the guidel
 
 ## Prediction with ground truth
 The one with ground truth(GT) will plot the ground truth out like the picture shown below.  
+![1to1_3Day](https://github.com/Moyacaca/TSRI_Air-Quality-Prediction/assets/117159970/2b3838ba-f532-4dee-98ab-437f13840a6a)
+
 You can give the order to get the result.  
 ```
 bash run_GT.sh <csv filename> <start date>
@@ -50,6 +55,8 @@ You can give the order above directly to get the line charts and the average num
 
 ## Prediction without ground truth
 The one without ground truth is for the purpose of realistic prediction. 
+![1to1_3Day_noGT](https://github.com/Moyacaca/TSRI_Air-Quality-Prediction/assets/117159970/9355b1bb-7d34-4182-8850-c4ff551ffe08)
+
 <br>
 You can give the order below to get the result.  
 ```
