@@ -52,3 +52,5 @@ bash run.sh 2023-12-26_2023-12-28.csv 2023-12-26
 ```
 The 2023-12-26_2023-12-28.csv file is already included in the pred_today folder.   
 You can give the order above directly to get the line charts and the average numbers.  
+
+Hope everything work well!
