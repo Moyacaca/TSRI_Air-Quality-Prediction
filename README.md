@@ -14,7 +14,6 @@ Download BASH and tensorflow for windows might be fine to do it!
 
 # Prediction
 There are two kinds of prediction here.
-
 Simply to get the result, you can give the order to get the <ins>line chart with ground truth.</ins>
 ```
 bash run_GT.sh 2023-12-26_2023-12-29.csv 2023-12-26
