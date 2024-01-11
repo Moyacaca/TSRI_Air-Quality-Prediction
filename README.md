@@ -6,9 +6,9 @@
 * keras 2.12.0
 * numpy 1.23.5
 
-Executing on the linux or Unix system will be better.
-However, it is also possible to execute on Windows system. 
-Download BASH and tensorflow for windows might be fine to execute it too!
+Executing on the linux or Unix system will be better.  
+However, it is also possible to execute on Windows system.   
+Download BASH and tensorflow for windows might be fine to execute it too!  
 
 # Prediction
 There are two kinds of prediction here.
