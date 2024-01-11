@@ -1,6 +1,6 @@
 There are two kinds of inference here.
 
-Simply to get the result, you can give the order to get the line chart with ground truth.
+Simply to get the result, you can give the order to get the <ins>line chart with ground truth.</ins>
 ```
 bash run_GT.sh 2023-12-26_2023-12-29.csv 2023-12-26
 ```
@@ -10,10 +10,8 @@ To get the line chart without ground truth, please give the order below.
 bash run.sh 2023-12-26_2023-12-28.csv 2023-12-26
 ```
 
-****
-
-
 For detail information or customized data for prediction, please read the guide below. 
+****
 
 ## 1st model prediction process
 The one with ground truth(GT) will plot the ground truth out like the picture shown below.
