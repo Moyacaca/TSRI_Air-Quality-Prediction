@@ -30,7 +30,7 @@ For detail information or customized data for prediction, please read the guidel
 
 <br>
 
-## Predicting with ground truth
+## Prediction with ground truth
 The one with ground truth(GT) will plot the ground truth out like the picture shown below.  
 You can give the order to get the result.  
 ```
@@ -48,7 +48,7 @@ You can give the order above directly to get the line charts and the average num
 
 ****
 
-## Predicting without ground truth
+## Prediction without ground truth
 The one without ground truth is for the purpose of realistic prediction. 
 <br>
 You can give the order below to get the result.  
