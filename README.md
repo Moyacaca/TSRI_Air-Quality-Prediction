@@ -10,6 +10,8 @@ Executing on the linux or Unix system will be better.
 However, it is also possible to execute on Windows system.   
 Download BASH and tensorflow for windows might be fine to execute it too!  
 
+****
+
 # Prediction
 There are two kinds of prediction here.
 
@@ -17,7 +19,7 @@ Simply to get the result, you can give the order to get the <ins>line chart with
 ```
 bash run_GT.sh 2023-12-26_2023-12-29.csv 2023-12-26
 ```
-<br>
+
 To get the <ins>line chart without ground truth</ins>, please give the order below.  
 ```
 bash run.sh 2023-12-26_2023-12-28.csv 2023-12-26
