@@ -38,7 +38,7 @@ You can give the order to get the result.
 ```
 bash run_GT.sh <csv filename> <start date>
 ```
-Please note that the information in "csv filename" should only contain 4 dates of data(including a ground truth). It is necessary to put your csv file into the pred_today_GT folder.  
+Please note that the information in "csv filename" should only contain <ins>4 dates</ins> of data(including a ground truth). It is necessary to put your csv file into the pred_today_GT folder.  
 And the format of "start date" should be "YYYY-MM-DD".  
 <br><br>
 For example,  
@@ -57,7 +57,7 @@ You can give the order below to get the result.
 ```
 bash run.sh <csv filename> <start date>
 ```
-Please note that the information in "csv filename" should only contain 3 dates of data. It is necessary to put your csv file into the pred_today folder.  
+Please note that the information in "csv filename" should only contain <ins>3 dates</ins>ins of data. It is necessary to put your csv file into the pred_today folder.  
 And the format of "start date" should be "YYYY-MM-DD".  
 <br><br>
 For example,  
