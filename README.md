@@ -20,6 +20,8 @@ bash run_GT.sh 2023-12-26_2023-12-29.csv 2023-12-26
 ```
 ![1to1_3Day](https://github.com/Moyacaca/TSRI_Air-Quality-Prediction/assets/117159970/8beb161b-f88d-4203-9d50-b12032975836)
 
+****
+
 To get the <ins>line chart without ground truth</ins>, please give the order below.  
 ```
 bash run.sh 2023-12-26_2023-12-28.csv 2023-12-26
