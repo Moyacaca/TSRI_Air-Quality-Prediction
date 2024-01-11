@@ -40,26 +40,26 @@ bash run_GT.sh <csv filename> <start date>
 ```
 Please note that the information in "csv filename" should only contain <ins>4 dates</ins> of data(including a ground truth). It is necessary to put your csv file into the pred_today_GT folder.  
 And the format of "start date" should be "YYYY-MM-DD".  
-<br><br>
+<br>
 For example,  
 ```
 bash run_GT.sh 2023-12-26_2023-12-29.csv 2023-12-26
 ```
 The 2023-12-26_2023-12-29.csv file is already included in the pred_today_GT folder.   
 You can give the order above directly to get the line charts and the average numbers.  
-<br>
+
 ****
 <br>
 ## 2rd model prediction process
 The one without ground truth is for the purpose of realistic prediction. 
-<br><br>
+<br>
 You can give the order below to get the result.  
 ```
 bash run.sh <csv filename> <start date>
 ```
 Please note that the information in "csv filename" should only contain <ins>3 dates</ins>ins of data. It is necessary to put your csv file into the pred_today folder.  
 And the format of "start date" should be "YYYY-MM-DD".  
-<br><br>
+<br>
 For example,  
 ```
 bash run.sh 2023-12-26_2023-12-28.csv 2023-12-26
