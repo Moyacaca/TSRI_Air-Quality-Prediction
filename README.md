@@ -38,7 +38,7 @@ For detail information or customized data for prediction, please read the guidel
 ## Prediction with ground truth
 The one with ground truth(GT) will plot the ground truth in the line chart.  
 
-You can give the order to get the result.  
+Please give the order below.  
 ```
 bash run_GT.sh <csv filename> <start date>
 ```
@@ -57,7 +57,7 @@ You can give the order above directly to get the line charts and the average num
 ## Prediction without ground truth
 The one without ground truth is for the purpose of realistic prediction. 
 
-You can give the order below to get the result.  
+Please give the order below.  
 ```
 bash run.sh <csv filename> <start date>
 ```
