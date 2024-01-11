@@ -34,8 +34,7 @@ For detail information or customized data for prediction, please read the guidel
 <br>
 
 ## Prediction with ground truth
-The one with ground truth(GT) will plot the ground truth out like the picture shown below.  
-![1to1_3Day](https://github.com/Moyacaca/TSRI_Air-Quality-Prediction/assets/117159970/2b3838ba-f532-4dee-98ab-437f13840a6a)
+The one with ground truth(GT) will plot the ground truth in the line chart.  
 
 You can give the order to get the result.  
 ```
