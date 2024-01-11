@@ -8,7 +8,7 @@
 
 Executing on the linux or Unix system will be better.  
 However, it is also possible to execute on Windows system.   
-Download BASH and tensorflow for windows might be fine to execute it too!  
+Download BASH and tensorflow for windows might be fine to do it!  
 
 ****
 
