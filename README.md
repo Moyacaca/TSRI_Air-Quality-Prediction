@@ -27,7 +27,7 @@ bash run.sh 2023-12-26_2023-12-28.csv 2023-12-26
 
 For detail information or customized data for prediction, please read the guide below. 
 
-  
+<br>
 
 ## 1st model prediction process
 The one with ground truth(GT) will plot the ground truth out like the picture shown below.  
