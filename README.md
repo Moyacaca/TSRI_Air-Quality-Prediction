@@ -8,7 +8,7 @@ tensorflow-macos    2.12.0
 There are two kinds of inference here.
 
 ## 1st model prediction process
-1st model will print the Ground Truth(GT) out.
+1st model will print the Ground Truth(GT) out.  
 You can give the order to get the result.
 ```
 bash run_GT.sh
@@ -17,13 +17,13 @@ It will crawl the latest data from the website and inference.
 
 
 ## 2rd model prediction process
-It is a realistic prdiction using the latest data.
+It is a realistic prdiction using the latest data.  
 You can give the order below to get the result.
 ```
 bash run.sh
 ```
 It will crawl the latest data from the website and inference.  
-<ins> Note that the routine should be executed at the start of a day. </ins>
+<ins> Note that the routine should be executed at the start of a day. </ins>  
 
 
 In the figure folder, there are six files represent datas of each measurement.  
