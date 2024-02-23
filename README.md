@@ -27,7 +27,7 @@ It will crawl the latest data from the website and inference.
 
 
 In the figure folder, there are six files containing data for each air quality prediction.  
-In the file(the picture below), the data in the orange box is the forcast data.  
+In the file(the picture below), the data in the orange box is forcast data.  
 The data in the green box is yesterday's data.  
 The first line belongs to the time "00:01", the sencod belongs to "00:02", and so on.  
 <img width="378" alt="image" src="https://github.com/Moyacaca/TSRI_Air-Quality-Prediction/assets/117159970/c9ca9522-3103-407a-9d4a-be782da6b0b0">
