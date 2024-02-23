@@ -26,7 +26,7 @@ It will crawl the latest data from the website and inference.
 <ins> Note that the routine should be executed at the start of a day. </ins>  
 
 
-In the figure folder, there are six files represent datas of each measurement.  
+In the figure folder, there are six files containing data for each air quality prediction.  
 In the file(the picture below), the data in the orange box is the forcast data.  
 The data in the green box is yesterday's data.  
 The first data is the forcasting of measurement at 00:01, the sencod is at 00:02, and so on.  
