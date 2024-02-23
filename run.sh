@@ -12,4 +12,4 @@ echo "Loading the file..."
 python build_train_web.py
 echo "Start evaluating!"
 
-python lstm_on_web_1to1_3Day.py 
+python lstm_on_web_1to1_3Day_1440.py 
