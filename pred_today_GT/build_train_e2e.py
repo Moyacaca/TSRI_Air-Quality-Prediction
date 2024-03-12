@@ -223,13 +223,13 @@ def build_year_data(end_y, end_m, end_d):
         #print('y = ', y)
         #print(day_data)
         print('------------------------------------')
-        for i in range(x):
-            if day_data[i][2] >= 70:  # Define the threshold of pm2.5
-                #print(day_data)
-                unavaliabe_data = 1
-                break
-            else:
-                unavaliabe_data = 0
+        # for i in range(x):
+        #     if day_data[i][2] >= 70:  # Define the threshold of pm2.5
+        #         #print(day_data)
+        #         unavaliabe_data = 1
+        #         break
+        #     else:
+        #         unavaliabe_data = 0
         # Append to year's data
         if unavaliabe_data == 1:
             if year == end_y and month == end_m and day == end_d: # End date
