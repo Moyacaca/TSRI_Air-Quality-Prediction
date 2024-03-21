@@ -1,3 +1,6 @@
+# The model is upgraded in 1to1_3Day_model folder. Thank!
+
+
 # Environment
 keras               2.12.0  
 selenium            3.141.0  
