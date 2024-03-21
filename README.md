@@ -1,4 +1,4 @@
-<b>The model is upgraded in 1to1_3Day_model folder. Thank! <b/>
+**The model is upgraded in 1to1_3Day_model folder. Thank!**
 
 
 # Environment
