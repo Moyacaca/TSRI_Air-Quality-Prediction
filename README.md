@@ -1,4 +1,4 @@
-<p style="font-size:50px;">The model is upgraded in 1to1_3Day_model folder. Thank!</p>
+##### The model is upgraded in 1to1_3Day_model folder. Thank!
 
 
 # Environment
