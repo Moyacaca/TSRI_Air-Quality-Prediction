@@ -1,6 +1,6 @@
 ### The Model_with_Meteorological_data is the newest code. You can find everything it.
 
-### The model is upgraded in 1to1_3Day_model folder. Thank!
+
 
 
 # Environment
